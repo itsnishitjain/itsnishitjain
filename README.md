@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! My name is Nishit. I am an aspiring software developer and musician from India, currently studying Computer Science from Delhi Public School, Vasant Kunj. I'm passionate about programming and tech in general. Other than that, I love playing electric guitar and exploring niche genres in music.
+# Hey there! I'm Nishit
+I am an aspiring software developer and musician from India, currently studying Computer Science from Delhi Public School, Vasant Kunj. I'm passionate about programming and tech in general. Other than that, I love playing electric guitar and exploring niche genres in music.
 
 
 ## 🌐 Socials:
