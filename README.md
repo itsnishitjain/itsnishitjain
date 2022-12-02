@@ -1,6 +1,4 @@
 # Hey there! I'm Nishit
-I am an aspiring software developer and musician from India, currently studying Computer Science from Delhi Public School, Vasant Kunj. I'm passionate about programming and tech in general. Other than that, I love playing electric guitar and exploring niche genres in music.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnishit_jain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishitjain1726) 
@@ -10,6 +8,5 @@ I am an aspiring software developer and musician from India, currently studying 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nishitjain1726&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishitjain1726&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitjain1726&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
